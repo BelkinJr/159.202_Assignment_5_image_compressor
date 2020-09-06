@@ -1,6 +1,3 @@
--- Assignment 5, 159.202, 2018 S2
--- Belkin, Vitaly, 17385402
-
 -- Import Modules needed for reading/writing binary files.
 import Data.ByteString (readFile, writeFile, ByteString, pack, unpack)
 import Data.Word
